@@ -32,9 +32,9 @@ Add an entry to `apps.json`:
 
 ## Hosting (free)
 
-1. Push this repo to GitHub.
-2. Go to **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
-3. The site goes live at `https://<your-username>.github.io/alinex/`.
+Live at **https://anasrizvi89-design.github.io/alinex/**
+
+GitHub Pages serves the `gh-pages` branch. On every push to `main`, `.github/workflows/pages.yml` copies `main` onto `gh-pages`, so you only ever edit `main`.
 
 ## Domain plan
 
