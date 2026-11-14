@@ -42,7 +42,7 @@ GitHub Pages serves the `gh-pages` branch. On every push to `main`, `.github/wor
 
 | Option | Cost | Address | Notes |
 |--------|------|---------|-------|
-| **EU.org** (recommended) | Free, never expires | `alinex.eu.org` | A real domain with full DNS control. You can add subdomains per app (`app1.alinex.eu.org`), set up email forwarding with Cloudflare, and point it anywhere. Approval can take weeks, so apply now at <https://nic.eu.org>. |
+| **EU.org** (chosen, see [setup guide](docs/domain-setup.md)) | Free, never expires | `alinex.eu.org` | A real domain with full DNS control. You can add subdomains per app (`app1.alinex.eu.org`), set up email forwarding with Cloudflare, and point it anywhere. Approval can take weeks, so apply now at <https://nic.eu.org>. |
 | **is-a.dev** | Free | `alinex.is-a.dev` | Fast, approved through a pull request to `is-a-dev/register`. Developer-focused and widely recognised. |
 | **DigitalPlat FreeDomain** | Free | `alinex.dpdns.org` | Quick to get and gives full DNS. Lower reputation, so use it as a stopgap. |
 | **GitHub Student Pack** | Free for 1 year (students only) | `alinex.me` / `alinex.tech` | Real TLDs via Namecheap / get.tech. |
