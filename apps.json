@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Your First App",
+    "icon": "🚀",
+    "status": "live",
+    "description": "Replace this with a one-line pitch for your app. Edit apps.json to add, remove or update apps.",
+    "tags": ["Android", "iOS"],
+    "links": [
+      { "label": "Website", "url": "https://example.com" },
+      { "label": "Source", "url": "https://github.com/anasrizvi89-design" }
+    ]
+  },
+  {
+    "name": "Second App",
+    "icon": "🧪",
+    "status": "beta",
+    "description": "An app that is in testing. Set status to live, beta or soon.",
+    "tags": ["Web"],
+    "links": [{ "label": "Try the beta", "url": "https://example.com" }]
+  },
+  {
+    "name": "Next Big Thing",
+    "icon": "✨",
+    "status": "soon",
+    "description": "Tease what you are building next.",
+    "tags": ["In progress"],
+    "links": []
+  }
+]
